@@ -34,4 +34,5 @@ This folder contains the scripts used:
 - preprocessing_affymetrix: Affymetrix data pre-processing;
 - preprocessing_illumina: Illumina data pre-processing
 - randomForest: Random Forest algorithm; 
+- select_train_test: select training and test sets
 
